@@ -1,5 +1,5 @@
 # Demo
-#### Click for a working live demo :  https://imlakshaychauhan.github.io/crypto-tracker/
+### [Click for a working live demo](https://imlakshaychauhan.github.io/crypto-tracker/)
 
 # Built with 
 
