@@ -4,8 +4,6 @@ import {
   Toolbar,
   Typography,
   Select,
-  IconButton,
-  MenuIcon,
   makeStyles,
   createTheme,
   ThemeProvider,

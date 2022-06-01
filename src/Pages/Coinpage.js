@@ -5,7 +5,6 @@ import { CryptoState } from "../CryptoContext";
 import { makeStyles, Typography, LinearProgress } from "@material-ui/core";
 import { SingleCoin } from "../Config/api";
 import CoinInfo from "../Components/CoinInfo";
-import { render } from "react-dom";
 import parse from 'html-react-parser';
 
 export function numberWithCommas(x) {
